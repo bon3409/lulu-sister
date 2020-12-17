@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{414:function(n,t,e){"use strict";e.r(t);var r={},c=e(42),o=e(73),l=e.n(o),w=e(430),component=Object(c.a)(r,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("v-container",[t("h1",[this._v("最新消息")])])],1)}),[],!1,null,"5b412425",null);t.default=component.exports;l()(component,{VContainer:w.a})}}]);

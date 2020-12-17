@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{374:function(n,t,e){"use strict";e.r(t);var r={},c=e(43),o=e(73),l=e.n(o),w=e(382),component=Object(c.a)(r,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("v-container",[t("h1",[this._v("品牌介紹")])])],1)}),[],!1,null,"36078d59",null);t.default=component.exports;l()(component,{VContainer:w.a})}}]);

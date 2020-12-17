@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{420:function(n,t,e){"use strict";e.r(t);var c={},r=e(42),o=e(73),l=e.n(o),w=e(430),component=Object(r.a)(c,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("v-container",[t("h1",[this._v("鹿鹿果汁")])])],1)}),[],!1,null,"76427f6c",null);t.default=component.exports;l()(component,{VContainer:w.a})}}]);
