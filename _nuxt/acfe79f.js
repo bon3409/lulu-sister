@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{415:function(n,e,t){"use strict";t.r(e);var r={},c=t(42),o=t(73),l=t.n(o),w=t(430),component=Object(c.a)(r,(function(){var n=this.$createElement,e=this._self._c||n;return e("div",[e("v-container",[e("h1",[this._v("豪華口味")])])],1)}),[],!1,null,"3296ed82",null);e.default=component.exports;l()(component,{VContainer:w.a})}}]);
